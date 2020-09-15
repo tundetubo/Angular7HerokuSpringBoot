@@ -1,0 +1,15 @@
+Technology stack
+--------------------
+Java 
+Spring Boot for generating spring application template
+Spring REST AP1 for delivering a webservice
+H2 database (embedded)
+JPA for data persistence into database
+Spring Web for handling Http requests
+Maven for application build
+JUnit for testing
+
+
+Consume service at 
+-----------------------
+http://localhost:8084/cool-cars 
